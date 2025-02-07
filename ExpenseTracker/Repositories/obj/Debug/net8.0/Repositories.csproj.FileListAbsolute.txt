@@ -1,0 +1,17 @@
+C:\Users\PULSE Electronics\Desktop\ExpenseTracker\ExpenseTracker\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\PULSE Electronics\Desktop\ExpenseTracker\ExpenseTracker\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+C:\Users\PULSE Electronics\Desktop\ExpenseTracker\ExpenseTracker\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\PULSE Electronics\Desktop\ExpenseTracker\ExpenseTracker\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\PULSE Electronics\Desktop\ExpenseTracker\ExpenseTracker\Repositories\bin\Debug\net8.0\Data.dll
+C:\Users\PULSE Electronics\Desktop\ExpenseTracker\ExpenseTracker\Repositories\bin\Debug\net8.0\Data.pdb
+C:\Users\PULSE Electronics\Desktop\ExpenseTracker\ExpenseTracker\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\PULSE Electronics\Desktop\ExpenseTracker\ExpenseTracker\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PULSE Electronics\Desktop\ExpenseTracker\ExpenseTracker\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\PULSE Electronics\Desktop\ExpenseTracker\ExpenseTracker\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\PULSE Electronics\Desktop\ExpenseTracker\ExpenseTracker\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\PULSE Electronics\Desktop\ExpenseTracker\ExpenseTracker\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Users\PULSE Electronics\Desktop\ExpenseTracker\ExpenseTracker\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\PULSE Electronics\Desktop\ExpenseTracker\ExpenseTracker\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\PULSE Electronics\Desktop\ExpenseTracker\ExpenseTracker\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\PULSE Electronics\Desktop\ExpenseTracker\ExpenseTracker\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+C:\Users\PULSE Electronics\Desktop\ExpenseTracker\ExpenseTracker\Repositories\obj\Debug\net8.0\ref\Repositories.dll

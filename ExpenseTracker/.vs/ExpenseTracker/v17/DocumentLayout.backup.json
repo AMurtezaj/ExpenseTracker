@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PULSE Electronics\\Desktop\\ExpenseTracker\\ExpenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{694D499F-5CC1-44E8-AE7A-226BACAF0D20}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\pulse electronics\\desktop\\expensetracker\\expensetracker\\expensetracker\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D499F-5CC1-44E8-AE7A-226BACAF0D20}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DDC94B-368A-4C84-8A4C-C99F3905E419}|Business\\Business.csproj|c:\\users\\pulse electronics\\desktop\\expensetracker\\expensetracker\\business\\services\\expenseservices\\expensevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DDC94B-368A-4C84-8A4C-C99F3905E419}|Business\\Business.csproj|solutionrelative:business\\services\\expenseservices\\expensevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DDC94B-368A-4C84-8A4C-C99F3905E419}|Business\\Business.csproj|c:\\users\\pulse electronics\\desktop\\expensetracker\\expensetracker\\business\\services\\expenseservices\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DDC94B-368A-4C84-8A4C-C99F3905E419}|Business\\Business.csproj|solutionrelative:business\\services\\expenseservices\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DDC94B-368A-4C84-8A4C-C99F3905E419}|Business\\Business.csproj|c:\\users\\pulse electronics\\desktop\\expensetracker\\expensetracker\\business\\services\\expenseservices\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DDC94B-368A-4C84-8A4C-C99F3905E419}|Business\\Business.csproj|solutionrelative:business\\services\\expenseservices\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DDC94B-368A-4C84-8A4C-C99F3905E419}|Business\\Business.csproj|c:\\users\\pulse electronics\\desktop\\expensetracker\\expensetracker\\business\\services\\expenseservices\\iexpensevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DDC94B-368A-4C84-8A4C-C99F3905E419}|Business\\Business.csproj|solutionrelative:business\\services\\expenseservices\\iexpensevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4377645E-C45C-4DF4-A004-D0BD9B83EA49}|Repositories\\Repositories.csproj|c:\\users\\pulse electronics\\desktop\\expensetracker\\expensetracker\\repositories\\repositories\\expenserepositories\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4377645E-C45C-4DF4-A004-D0BD9B83EA49}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\expenserepositories\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4377645E-C45C-4DF4-A004-D0BD9B83EA49}|Repositories\\Repositories.csproj|c:\\users\\pulse electronics\\desktop\\expensetracker\\expensetracker\\repositories\\repositories\\expenserepositories\\expenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4377645E-C45C-4DF4-A004-D0BD9B83EA49}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\expenserepositories\\expenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IExpenseValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\PULSE Electronics\\Desktop\\ExpenseTracker\\ExpenseTracker\\Business\\Services\\ExpenseServices\\IExpenseValidationService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\ExpenseServices\\IExpenseValidationService.cs",
+              "ToolTip": "C:\\Users\\PULSE Electronics\\Desktop\\ExpenseTracker\\ExpenseTracker\\Business\\Services\\ExpenseServices\\IExpenseValidationService.cs",
+              "RelativeToolTip": "Business\\Services\\ExpenseServices\\IExpenseValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:05:33.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\PULSE Electronics\\Desktop\\ExpenseTracker\\ExpenseTracker\\Business\\Services\\ExpenseServices\\ExpenseValidationService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\ExpenseServices\\ExpenseValidationService.cs",
+              "ToolTip": "C:\\Users\\PULSE Electronics\\Desktop\\ExpenseTracker\\ExpenseTracker\\Business\\Services\\ExpenseServices\\ExpenseValidationService.cs",
+              "RelativeToolTip": "Business\\Services\\ExpenseServices\\ExpenseValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:05:27.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseController.cs",
+              "DocumentMoniker": "C:\\Users\\PULSE Electronics\\Desktop\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "ToolTip": "C:\\Users\\PULSE Electronics\\Desktop\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:47:28.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\PULSE Electronics\\Desktop\\ExpenseTracker\\ExpenseTracker\\Business\\Services\\ExpenseServices\\ExpenseService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\ExpenseServices\\ExpenseService.cs",
+              "ToolTip": "C:\\Users\\PULSE Electronics\\Desktop\\ExpenseTracker\\ExpenseTracker\\Business\\Services\\ExpenseServices\\ExpenseService.cs",
+              "RelativeToolTip": "Business\\Services\\ExpenseServices\\ExpenseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:01:36.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\PULSE Electronics\\Desktop\\ExpenseTracker\\ExpenseTracker\\Business\\Services\\ExpenseServices\\IExpenseService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\ExpenseServices\\IExpenseService.cs",
+              "ToolTip": "C:\\Users\\PULSE Electronics\\Desktop\\ExpenseTracker\\ExpenseTracker\\Business\\Services\\ExpenseServices\\IExpenseService.cs",
+              "RelativeToolTip": "Business\\Services\\ExpenseServices\\IExpenseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:00:59.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExpenseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PULSE Electronics\\Desktop\\ExpenseTracker\\ExpenseTracker\\Repositories\\Repositories\\ExpenseRepositories\\ExpenseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\ExpenseRepositories\\ExpenseRepository.cs",
+              "ToolTip": "C:\\Users\\PULSE Electronics\\Desktop\\ExpenseTracker\\ExpenseTracker\\Repositories\\Repositories\\ExpenseRepositories\\ExpenseRepository.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\ExpenseRepositories\\ExpenseRepository.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAuwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T08:54:28.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IExpenseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PULSE Electronics\\Desktop\\ExpenseTracker\\ExpenseTracker\\Repositories\\Repositories\\ExpenseRepositories\\IExpenseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\ExpenseRepositories\\IExpenseRepository.cs",
+              "ToolTip": "C:\\Users\\PULSE Electronics\\Desktop\\ExpenseTracker\\ExpenseTracker\\Repositories\\Repositories\\ExpenseRepositories\\IExpenseRepository.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\ExpenseRepositories\\IExpenseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T08:54:07.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
